@@ -1,3 +1,4 @@
+Initial App was built using Create React Ap
 This is a simple React App to get started with Docker.
 
 #Build and tag the Docker image:
